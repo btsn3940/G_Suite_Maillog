@@ -1,6 +1,6 @@
 @echo off
 
-rem 
+rem 「c:\task」直下に展開している想定でフォルダ移動します
 c:
 cd c:\task\maillog
 
